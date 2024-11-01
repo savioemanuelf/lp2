@@ -1,6 +1,4 @@
-package atividade01.account;
-
-public class Main {
+public class TestAccount {
     public static void main(String[] args) {
         // Test constructor and toString()
         Account a1 = new Account("A101", "Tan Ah Teck", 88);

@@ -1,5 +1,3 @@
-package atividade01.rectangle;
-
 public class Rectangle {
     // ATTRIBUTES
     private float width, length;

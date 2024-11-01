@@ -1,5 +1,3 @@
-package atividade01.ball;
-
 public class Ball {
     private float x, y;
     private int radius;

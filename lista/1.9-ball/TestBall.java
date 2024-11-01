@@ -1,6 +1,4 @@
-package atividade01.ball;
-
-public class Main {
+public class TestBall {
     public static void main(String[] args) {
         // Test constructor and toString()
         Ball ball = new Ball(1.1f, 2.2f, 10, 3.3f, 4.4f);

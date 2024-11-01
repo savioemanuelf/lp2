@@ -1,6 +1,4 @@
-package atividade01.rectangle;
-
-public class Main {
+public class TestRectangle {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle(1.2f, 3.4f);
         System.out.println(r1);  // toString()

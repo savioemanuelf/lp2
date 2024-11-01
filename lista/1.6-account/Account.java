@@ -1,5 +1,3 @@
-package atividade01.account;
-
 public class Account {
     // ATTRIBUTES
     private String id;
